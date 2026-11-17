@@ -1,0 +1,7 @@
+{
+  "name": "claude-baton",
+  "version": "0.1.0",
+  "author": { "name": "独孤菌" },
+  "license": "MIT",
+  "description": "Hand a whole Claude Code session to a background agent CLI when your main model runs out. Messages are relayed verbatim by a hook; your rules go with it."
+}

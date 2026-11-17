@@ -1,0 +1,16 @@
+{
+  "adapter": "droid",
+  "workdir": "",
+  "agent_prompt": "~/.config/baton/agent_prompt.md",
+  "protected": ["~/.claude"],
+  "display": "context",
+  "end_words": ["结束接力", "end relay"],
+  "suggest_cmd": "",
+  "timeout": 840,
+  "droid": {
+    "model": "claude-opus-5-5",
+    "fallback_model": "",
+    "auto": "low",
+    "api_key_cmd": ""
+  }
+}
